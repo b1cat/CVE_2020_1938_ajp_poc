@@ -1,5 +1,5 @@
 # CVE_2020_1938_ajp_poc
-![](./images/image-20200226202335867.png)
+![](./image/image-20200226202335867.png)
 
 
 
